@@ -36,7 +36,7 @@ Before running this application, ensure you have the following installed:
 1. Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/Shabari02/CRUD-APP.git
+git clone https://github.com/Febiecode/Java-CRUD-Application/.git
 cd your-repository
 ```
 
